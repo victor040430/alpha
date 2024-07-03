@@ -1,0 +1,9 @@
+{
+	"name": "alpha0430",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bfb93587-e586-4094-9567-e4fc182873a5",
+		"tenantId": "d2b3bbe0-22c0-42ce-b762-f8fa6d6d786c"
+	}
+}
